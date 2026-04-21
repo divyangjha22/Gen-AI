@@ -53,3 +53,9 @@ sentence-transformers
 grandalf
 
 pypdf
+
+# Vector DB
+chromadb
+faiss-cpu
+
+tiktoken
